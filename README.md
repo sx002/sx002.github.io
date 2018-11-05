@@ -1,1 +1,2 @@
-# Hello word , I am sx002 !
+# Hello word , I am sx002 
+hi
